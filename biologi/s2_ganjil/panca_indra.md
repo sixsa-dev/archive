@@ -1,7 +1,6 @@
-# Dari Stimulus ke Sinyal: Panduan Struktural Indra Manusia untuk Biologi SMA
-
+# Struktural Indra Manusia
 ## Daftar Isi
-- [Dari Stimulus ke Sinyal: Panduan Struktural Indra Manusia untuk Biologi SMA](#dari-stimulus-ke-sinyal-panduan-struktural-indra-manusia-untuk-biologi-sma)
+- [Struktural Indra Manusia](#struktural-indra-manusia)
   - [Daftar Isi](#daftar-isi)
   - [► Penglihatan: Anatomi Mata](#-penglihatan-anatomi-mata)
     - [Lapisan Luar: Tunika Fibrosa](#lapisan-luar-tunika-fibrosa)
