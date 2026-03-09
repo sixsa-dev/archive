@@ -1,5 +1,5 @@
 # 📘 Materi Tambahan: Sistem Gerak Manusia  
-*Pelengkap Rangkuman Bab 4 Biologi SMA*
+*Pelengkap Rangkuman Sistem Gerak*
 
 ---
 
