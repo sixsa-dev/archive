@@ -1,6 +1,4 @@
 # ◆ BAB 4: SISTEM GERAK MANUSIA  
-> *Rangkuman Materi Biologi SMA*
-
 ---
 
 ## ≡ Daftar Isi

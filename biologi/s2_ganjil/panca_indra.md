@@ -214,5 +214,3 @@ Setiap indra bergantung pada jenis sel reseptor khusus:
 - Sistem visual: jalur kompleks melalui kiasma optik sebelum ke korteks visual.
 - Sistem auditori: konversi energi unik (udara → padat → cairan → listrik).
 - Koreksi miskonsepsi: "peta lidah" tidak akurat; semua rasa dapat dirasakan di seluruh permukaan lidah.
-
-► **Kesimpulan**: Pemahaman komprehensif tentang indra manusia memerlukan apresiasi terhadap desain anatomi yang elegan dan saling terhubung, yang memungkinkan persepsi dan interaksi efektif dengan lingkungan. Prinsip hierarki, spesifisitas reseptor, dan hubungan struktur-fungsi merupakan kerangka konseptual inti untuk pembelajaran biologi tingkat SMA.
