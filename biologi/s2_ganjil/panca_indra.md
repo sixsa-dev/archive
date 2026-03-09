@@ -28,7 +28,7 @@
     - [● Prinsip Hierarki Struktural](#-prinsip-hierarki-struktural)
     - [● Spesifisitas Reseptor](#-spesifisitas-reseptor)
     - [● Hubungan Struktur–Fungsi](#-hubungan-strukturfungsi)
-    - [● Informasi Pembantu](#-informasi-pembantu)
+    - [● tmp](#-tmp)
 
 ---
 
@@ -209,7 +209,7 @@ Setiap indra bergantung pada jenis sel reseptor khusus:
 - Jalur langsung saraf olfaktori + regenerasi neuron → adaptasi unik sistem penciuman.
 - Distribusi reseptor kulit yang strategis → optimalisasi deteksi berbagai jenis sentuhan.
 
-### ● Informasi Pembantu
+### ● tmp
 - Sistem olfaktori: jalur langsung ke otak + regenerasi neuron seumur hidup.
 - Sistem visual: jalur kompleks melalui kiasma optik sebelum ke korteks visual.
 - Sistem auditori: konversi energi unik (udara → padat → cairan → listrik).
