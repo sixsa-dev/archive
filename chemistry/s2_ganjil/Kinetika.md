@@ -30,7 +30,7 @@
     - [🔢 Contoh Perhitungan:](#-contoh-perhitungan-1)
   - [📊 Tabel Ringkasan Orde Reaksi](#-tabel-ringkasan-orde-reaksi)
   - [💡 Insight Penting](#-insight-penting)
-  - [🧩 Latihan Soal](#-latihan-soal)
+  - [🧩 Contoh](#-contoh-1)
     - [Soal 1:](#soal-1)
     - [Soal 2:](#soal-2)
   - [🔗 Referensi \& Lanjutan](#-referensi--lanjutan)
@@ -244,7 +244,7 @@ Satuan: M/s ÷ (M¹ × M²) = M⁻²·s⁻¹ = L²·mol⁻²·s⁻¹
 
 ---
 
-## 🧩 Latihan Soal
+## 🧩 Contoh
 
 ### Soal 1:
 Diketahui reaksi `A + 2B → C` memiliki hukum laju `Rate = k[A]²[B]`.  
